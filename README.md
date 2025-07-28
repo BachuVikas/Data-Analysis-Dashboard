@@ -2,7 +2,7 @@
 
 Visualizing what sells, where it sells, and why it sells — a smart look into Blinkit’s sales and product trends.
 
-![Blinkit Dashboard](blinkit_dashboard.jpg)
+![Blinkit Dashboard][(blinkit_dashboard.jpg)](https://github.com/BachuVikas/Data-Analysis-Dashboard/blob/main/blinkit_dashboard.png)
 
 ---
 
