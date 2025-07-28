@@ -31,7 +31,7 @@ This dashboard presents a detailed analysis of sales and product data from **Bli
 
 ## ⚙️ Tools Used
 
-- **Microsoft Excel
+- Microsoft Excel
 - Data cleaning and pivoting
 - Chart visualizations
 - Dashboard design
